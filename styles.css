@@ -1,0 +1,30 @@
+body{
+    background-color:purple;
+    text-align: center;
+}
+h1{
+    color: black;
+    margin-top: 50px;
+}
+input{
+    margin: 50px auto 50px;
+    width: 400px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+}
+#output{
+    margin-top: 45px;
+    width: 100px;
+    background: olivedrab;
+    margin: 100px auto 100px;
+}
+#btn{
+    width: 350px;
+    height: 80px;
+    color: grey;
+    background-color:red;
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 80px;
+}
